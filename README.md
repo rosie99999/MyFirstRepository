@@ -1,2 +1,2 @@
 # MyFirstRepository
-Tutorial Repository
+Hello My nama is Rosie
